@@ -45,7 +45,7 @@ Blockchain is used as an integrity and non-repudiation layer. Operational data r
 - Cloudinary for media
 - No media stored on-chain
 
-### Layer 4 — Blockchain (Polygon Testnet)
+### Layer 4 — Blockchain (Celo sepolia)
 - Immutable event anchoring
 - Hash storage only
 - Workflow transition records
